@@ -8,6 +8,5 @@ Beispiele:
 - 10.000 Schritte erreichen
 - ins Gym gehen
 - Wasser trinken
-- Essen bestellen
 
 Nutzer sollen täglich festhalten können, was sie gemacht haben. Später soll die App monatliche und jährliche Auswertungen bereitstellen.
