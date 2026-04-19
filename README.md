@@ -11,15 +11,3 @@ Beispiele:
 - Essen bestellen
 
 Nutzer sollen täglich festhalten können, was sie gemacht haben. Später soll die App monatliche und jährliche Auswertungen bereitstellen.
-
-## Aktueller Stand (M1)
-- Projektidee festgelegt
-- Backend-Repository erstellt
-- Spring-Boot-Projekt angelegt
-- Beispiel-Entity `Tracker` erstellt
-- GET-Route `/api/trackers` implementiert, die Beispiel-Entitäten zurückgibt
-
-## Geplanter Tech-Stack
-- Spring Boot
-- Vue.js
-- PostgreSQL
