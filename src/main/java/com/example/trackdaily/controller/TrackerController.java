@@ -10,6 +10,7 @@ import java.util.List;
 @RestController
 @CrossOrigin(origins = "*")
 public class TrackerController {
+
     @GetMapping("/api/trackers")
     public List<Tracker> getTrackers() {
         return List.of(
